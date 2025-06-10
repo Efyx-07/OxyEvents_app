@@ -1,5 +1,5 @@
 <h1 style="margin: 0 0 2rem 0; text-align: center;">
-    OxyEvents Manager
+    OxyEvents
 </h1>
 
 <h2 style="margin: 0; color: grey; font-size: 1.5rem">
